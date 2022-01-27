@@ -526,8 +526,6 @@ body{
 	.skills__column {
 		margin-bottom: 10px;
 		flex: 1 1 100%;
-		width: 100%;
-		padding-left: 10px;
 	}
 	.skills__column:last-child{
 		margin: 0;
